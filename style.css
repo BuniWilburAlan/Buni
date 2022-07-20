@@ -15,6 +15,29 @@ body {
 div {
     text-align: center;
 }
+a:link {
+  color: #156698;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #156698;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #156698;
+  background-color: transparent;
+  font-weight: bold;
+}
+
+a:active {
+  color: #156698;
+  background-color: transparent;
+  font-weight: bold;
+}
 
 .blink {
     animation: blink 1s steps(1, end)
