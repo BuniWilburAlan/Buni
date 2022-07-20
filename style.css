@@ -27,10 +27,6 @@ a:hover, a:active {
   text-decoration: none;
 }
 
-.big {
-  font-size: 20px;
-}
-
 .blink {
     animation: blink 1s steps(1, end)
       infinite;
