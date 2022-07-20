@@ -30,12 +30,14 @@ a:visited {
 a:hover {
   color: #156698;
   background-color: transparent;
+  text-decoration: none;
   font-weight: bold;
 }
 
 a:active {
   color: #156698;
   background-color: transparent;
+  text-decoration: none;
   font-weight: bold;
 }
 
