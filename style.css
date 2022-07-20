@@ -15,30 +15,16 @@ body {
 div {
     text-align: center;
 }
-a:link {
+a:link, a:visited {
   color: #156698;
   background-color: transparent;
   text-decoration: none;
 }
-
-a:visited {
+a:hover, a:active {
   color: #156698;
   background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #156698;
-  background-color: transparent;
-  text-decoration: none;
   font-weight: bold;
-}
-
-a:active {
-  color: #156698;
-  background-color: transparent;
   text-decoration: none;
-  font-weight: bold;
 }
 
 .blink {
